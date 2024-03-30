@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vrahulrvce&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+</p> -->
 
 <h1 align="center">👋 Hello, I'm Rahul Veerapur!</h1>
 
