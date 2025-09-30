@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - 🔭 I'm working on JAVA, REACT JS, Data Structures and Algorithms, R, ML, and AI.
-- 🌱 I’m diving deep into **Machine learning and Software developer **
-- 🤓 Interested in  **Regression approach, LLM, Big Data, Automation Framework(Selenium) **
+- 🌱 I’m diving deep into **Data Architect and Data Science **
+- 🤓 Interested in  **Regression approach, LLM, Big Data, Time Series, Quant **
 - 💌 How to reach me: <a href="mailto:mv.rahul9@gmail.com">mv.rahul9@gmail.com</a>
 
 ---
